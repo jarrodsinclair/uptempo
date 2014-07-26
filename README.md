@@ -1,4 +1,4 @@
-uptempo
+UpTempo
 =======
 
-Command line utility to update templated text files with data contained in a JSON data file.
+Command line utility to update templated text files with values contained in a JSON data file.
